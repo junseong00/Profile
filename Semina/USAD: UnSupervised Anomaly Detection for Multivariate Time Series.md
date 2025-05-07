@@ -1,7 +1,7 @@
 # USAD: UnSupervised Anomaly Detection for Multivariate Time Series (KDD 2020)
 
 - **학회/년도**: KDD 2020
-- **원문 링크**: [[https://arxiv.org/abs/2002.06471](https://dl.acm.org/doi/10.1145/3394486.3403392)]
+- **원문 링크**: [[https://dl.acm.org/doi/10.1145/3394486.3403392](https://dl.acm.org/doi/10.1145/3394486.3403392)]
 
 ## 1. 요약
 USAD는 multivariate time series 데이터에 대해 비지도 학습 기반으로 이상치를 탐지하는 방법론. 두 개의 오토인코더(AE1, AE2)를 동시에 학습시키며, reconstruction loss를 기반으로 이상 여부를 판단. 윈도우 기반 슬라이싱과 학습 전략을 조합해 다양한 패턴을 감지할 수 있도록 설계되었다.
