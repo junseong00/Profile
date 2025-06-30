@@ -12,3 +12,4 @@
 ### 📄 2025 하계 종합 학술 발표회 포스터
 
 [👉 포스터 PDF 보기](./image/%5B최종%5D%5B포스터%5DLSTM%20Autoencoder와%20Unsupervised%20Anomaly%20Detection%20모델의%20시간%20해상도별%20이상치%20탐지%20성능%20분석.pdf)
+[![포스터 썸네일](./image/포스터.png)](./image/%5B최종%5D%5B포스터%5DLSTM%20Autoencoder와%20Unsupervised%20Anomaly%20Detection%20모델의%20시간%20해상도별%20이상치%20탐지%20성능%20분석.pdf)
