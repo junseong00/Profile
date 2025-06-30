@@ -20,7 +20,7 @@
 2. 장소 : 롯데호텔 제주
 3. 주최 : 대한전자공학회
 ### 논문
-  - 제목 : ""
+  - 제목 : LSTM Autoencoder와 Unsupervised Anomaly Detection 모델의 시간 해상도별 이상치 탐지 성능 분석
 
 ---
 
