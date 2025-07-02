@@ -22,6 +22,12 @@
 - **학회**: ICML 2016 
 - **요약**: LSTM 기반 시계열 인코더-디코더 구조를 이용한 멀티센서 이상치 탐지 프레임워크 분석
 
+### 4. Smart Metering System Capable of Anomaly Detection by Bi-directional LSTM Autoencoder
+- **저자**: Sangkeum Lee and others  
+- **학회**: 2022 IEEE ICCE  
+- **요약**: 스마트 미터링 데이터를 기반으로 Bi-directional LSTM Autoencoder를 활용하여 전력·수도·난방·온수의 이상 소비 패턴을 재구성 오차 기반 탐지, 기존 단방향 LSTM보다 향상된 이상 탐지 성능 입증.
+
+
 ---
 
 ##  NVIDIA 연구원 세미나
