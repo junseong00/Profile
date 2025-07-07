@@ -33,7 +33,7 @@
 ##  NVIDIA 연구원 세미나
 
 - **제목**: Building High-Performing, Efficient-size Vision Language Models  
-- **발표자**: NVIDIA 이병관 연구원  [이병관 연구원](https://sites.google.com/view/byungkwanlee![image](https://github.com/user-attachments/assets/3d4a3c45-a3f5-410e-87db-9cc84e70baa8)
+- **발표자**: NVIDIA 이병관 연구원  [이병관 연구원](https://sites.google.com/view/byungkwanlee)
 )
 - **요약**: 텍스트 생성 기반의 비전-언어 모델(VLM)에서 효율적인 크기와 높은 성능을 달성하기 위한 모델 병합, 네트워크 수정, 지식 증류(distillation) 기법을 소개 및 여러 환경에 적합한 경량화 전략 제시
 
