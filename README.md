@@ -2,7 +2,7 @@
 
 ---
 
-## 🔍2025년도 동계종합학술발표회
+## 2025년도 동계종합학술발표회
 
 1. 일시 : 2025-02-05 (수) ~ 2025-02-07 (금)
 2. 장소 : 용평리조트
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔍2025년도 하계종합학술대회
+## 2025년도 하계종합학술대회
 
 1. 일시 : 2025-06-24 (화) ~ 2025-06-27 (금)
 2. 장소 : 롯데호텔 제주
@@ -24,7 +24,7 @@
 
 ---
 
-## 📚Seminar 논문 리뷰
+## Seminar 논문 리뷰
 
 ### 1. Densely Connected Convolutional Networks ​ -CVPR 2017-
 ### 2. USAD(UnSupervised Anomaly Detection for multivariate time series  -KDD 2020-
