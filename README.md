@@ -33,7 +33,7 @@
 ### 4. Smart Metering System Capable of Anomaly Detection by Bi-directional LSTM Autoencoder  -IEEE ICCE 2022-
 #
 #
-#
+
 
 - **Quantum Battery**
 ### 1. IBMQuantumPlatforms: A Quantum Battery Perspective
