@@ -7,9 +7,9 @@
 
 | # | Title | Authors | Venue | Year | Remarks  |
 |---|-------|---------|-------|------|------|
-| 1 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints | Sangkeum Lee, Beomdo Park, **Junseong Park**, Hyeonseok Jang, Hoon Jeong, Taewook Heo | IEEE Transactions on Quantum Engineering | 2026 | International Journal |
-| 2 | FFT-Guided Multi-Window USAD with DTW–Isolation Forest for Reliable Anomaly Detection in Industrial Power Time-Series | Woohyeon Kwon, Minsung Jung, **Junseong Park**, Sangkeum Lee | Energies | 2025 | International Journal |
-| 3 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data | Minsung Jung, Hyeonseok Jang, Woohyeon Kwon, Jiyun Seo, Suna Park, Beomdo Park, **Junseong Park**, Donggeon Yu, Sangkeum Lee | Energies | 2025 | International Journal |
+| 1 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints | Sangkeum Lee, Beomdo Park, **Junseong Park**, Hyeonseok Jang, Hoon Jeong, Taewook Heo | IEEE Transactions on Quantum Engineering (SCIE) | 2026 | International Journal |
+| 2 | FFT-Guided Multi-Window USAD with DTW–Isolation Forest for Reliable Anomaly Detection in Industrial Power Time-Series | Woohyeon Kwon, Minsung Jung, **Junseong Park**, Sangkeum Lee | Energies (SCIE) | 2025 | International Journal |
+| 3 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data | Minsung Jung, Hyeonseok Jang, Woohyeon Kwon, Jiyun Seo, Suna Park, Beomdo Park, **Junseong Park**, Donggeon Yu, Sangkeum Lee | Energies (SCIE) | 2025 | International Journal |
 | 4 | Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries (Student Abstract) | Beomdo Park, Hyeonseok Jang, **Junseong Park**, Minu Baek, Gihun Gil, Minsung Jung, Woohyeon Kwon, Harin Jang, Yeojin Jang, Hoon Jeong, Taewook Heo, Sangkeum Lee | AAAI Conference on Artificial Intelligence | 2026 | International Conference (Poster) |
 | 5 | 개방 양자계 환경에서의 양자 배터리 충전 프로토콜 최적화를 위한 커리큘럼 강화학습 프레임워크 | **박준성**, 장현석, 박범도, 정훈, 허태욱, 이상금 | 한국통신학회 동계종합학술발표 | 2026 | - |
 | 6 | 물리 지식 기반 그래프 트랜스포머 강화학습을 이용한 강건한 양자 배터리 충전 최적화 | 박범도, **박준성**, 장현석, 정훈, 허태욱, 이상금 | 한국통신학회 동계종합학술발표 | 2026 | - |
