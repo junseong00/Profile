@@ -6,7 +6,7 @@
 ## 📊 Publication List
 
 | # | Title | Authors | Venue | Year | Type |
-|---|-------|---------|-------|------|------|
+|---|------------|---------|------|-----|-----|
 | 1 | Measurement-Informed Safe Reinforcement Learning for Quantum Battery Charging via Harmonic-Syndrome Diagnostics and BMS Constraints | Sangkeum Lee, Beomdo Park, **Junseong Park**, Hyeonseok Jang, Hoon Jeong, Taewook Heo | IEEE Transactions on Quantum Engineering | 2026 | International Journal |
 | 2 | FFT-Guided Multi-Window USAD with DTW–Isolation Forest for Reliable Anomaly Detection in Industrial Power Time-Series | Woohyeon Kwon, Minsung Jung, **Junseong Park**, Sangkeum Lee | Energies | 2025 | International Journal |
 | 3 | A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data | Minsung Jung, Hyeonseok Jang, Woohyeon Kwon, Jiyun Seo, Suna Park, Beomdo Park, **Junseong Park**, Donggeon Yu, Sangkeum Lee | Energies | 2025 | International Journal |
